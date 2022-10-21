@@ -1,6 +1,6 @@
 //════════════(00)═══════════════════════════════════════//
 //
-//                              K.PRABHASHA
+//                              @_^Vishw^a 𝙾𝙵𝙵𝙸𝙲𝙸𝙰𝙻 𝙱𝙾𝚃🎧♥️🍃
 //𝙰𝙳𝙾𝙿𝚃𝙴𝙳 𝙵𝚁𝙾𝙼  𝚂𝙲𝚁𝙸𝙿𝚃 𝙾𝙵 𝙲𝙷𝙴𝙴𝙼𝚂𝙱𝙾𝚃 𝚅2 𝙱𝚈 𝙳𝙶𝚇𝚎𝚘𝚗 
 //
 //════════════(00)════════════════//
@@ -21,11 +21,11 @@ global.APIKeys = {
 //customize settings\\
 
 global.alivemsg = `My name is RED DRAGON🔥
-My Creator is Kumuthu Prabhasha😎` //Costomize Alive Message (type your message in `` )
+My Creator is vishwa madushan😎` //Costomize Alive Message (type your message in `` )
 
-global.owner = ['+94715954493'] //Owner number in aive msg
-global.premium = ['+94715954493'] //Owner Number info
-global.ownernomer = '+94715954493' //Owner Number <<<
+global.owner = ['+94715996963'] //Owner number in aive msg
+global.premium = ['+94715996963'] //Owner Number info
+global.ownernomer = '+94715996963' //Owner Number <<<
 
 global.ownername = '😎V.Madushan' //Owner Name
 global.botname = ' ☬RED༒DRAGON' //Bot Name
@@ -36,7 +36,7 @@ global.btnurl = '🙂🔥දැන් සැපද?😑' //Change Your Button's 
 global.region = 'India, South India, Kerala' //Country Region
 
 global.packname = '☬RED༒DRAGON࿐' //Bot Pacage Name
-global.author = '😎𝙆.𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖❯❯' //Author Name
+global.author = '😎V.Madushan ❯❯' //Author Name
 global.prefa = ['','!','.','😂','❤','💠'] //Command Prefix eg:(.alive ,alive 😂alive)
 global.sessionName = 'session' //Session Name!
 global.sp = '⭔' //A Charactor In Menu!
@@ -71,7 +71,7 @@ global.mess = { // Error Mesages
    umpanawal: 5,
    potionawal: 1
 }
-global.thumb = fs.readFileSync('./DragonMedia/image/red-_-dragon-kumuthu.jpg')
+global.thumb = fs.readFileSync('./DragonMedia/image/@_^Vishw^a 𝙾𝙵𝙵𝙸𝙲𝙸𝙰𝙻 𝙱𝙾𝚃🎧♥️🍃-kumuthu.jpg')
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.fluming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=fluffy-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.flarun = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=runner-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
